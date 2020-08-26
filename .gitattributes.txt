@@ -11,4 +11,8 @@
 
 # Denote all files that are truly binary and should not be modified.
 *.png binary
+<<<<<<< HEAD
 *.jpg binary
+=======
+*.jpg binary
+>>>>>>> da2ce2a3abdc28e441685611f7fb56c44d699d5f
